@@ -23,5 +23,9 @@ Install Proxy or Socks!!!
 #Start Code 
 3/2.python MintC2.py
 
+# Local server Jupyter notebook
+1.bash localhost.sh
+2.jupyter notebook
+#And Copy Link localserver paste in Browser!
 
 
